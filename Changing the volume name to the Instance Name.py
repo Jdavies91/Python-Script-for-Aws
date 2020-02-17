@@ -1,6 +1,5 @@
-# 2.Find all EC2 instances in an account and tag the EBS volumes associated 
+# 2.Finding all EC2 instances in an account and tag the EBS volumes associated 
 # with each instance with the same tags from the instance.
-# NOT TO SURE IF THIS IS DONE
 import boto3
 
 def main():
