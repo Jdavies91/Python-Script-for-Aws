@@ -1,6 +1,6 @@
-# 3.	Change the size of an EC2 instance. 
-# The program should display a list of existing instances and the current size of the instance.  
-# The user should then be able to run the program with a specific instance ID
+# Change the size of an EC2 instance. 
+# The program displays a list of existing instances and the current size of the instance.  
+# The user is able to run the program with a specific instance ID
 # and the new size of the instance.
 
 import boto3
